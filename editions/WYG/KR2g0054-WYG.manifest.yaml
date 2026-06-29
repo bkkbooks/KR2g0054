@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2g0054/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2g0054/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 驂鸞錄
+  date: '2015-08-24 22:36:33.043004'
+  source:
+    repository: kanripo
+    path: KR2g0054
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0054_000-WYG.yaml, hash: 'sha256:354698cfee40ef546dd233a9791f7bc34945aba1ccbf0994c9064bd3eca0be2c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0054_000-WYG.markers.yaml, hash: 'sha256:7251c84fb29e75e5efdbc2356f7c09b2bf69a0e02700eda948718b65f94facf1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0054_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 371
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0054_WYG_000-3a
+    span:
+    - body
+    - 371
+    - 8282
+  label: 驂鸞録
+  type: section
+  level: 1
+hash: sha256:958bc999be3c387368623c16ddc9357d95c7d598b85f76db7cabcdd4e506fb65
