@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0054_000.yaml, hash: 'sha256:1e505464e76e16c455119e2221f8e4c01867322c629a886ea0ad2cd56d8518b4'}
+  - {seq: 0, filename: KR2g0054_000.yaml, hash: 'sha256:7689189111d358e54b36b89329485876a1c6f636060a45a1c89ad23ced759d6e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0054_000.markers.yaml, hash: 'sha256:574d1ec95ef36f1a75748cf0610202ca61237bd865c759a03953c449c07ef451'}
+  - {seq: 0, role: markers, filename: assets/KR2g0054_000.markers.yaml, hash: 'sha256:e8866ffee5840f434283f09b9b51a51f8cb43dd98c11a8491b5e7c93996647cb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 驂鸞録
   type: section
   level: 1
-hash: sha256:c211533c8ea693e010f30940198a3494d28a89b417ecebe926474bab837121bf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1cacd1d36cf48298477b13644ffd267918b9616851277f1e596dee273c450226
